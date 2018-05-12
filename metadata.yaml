@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '43245'
     url: http://www.gutenberg.org/2009/agents/43245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45205#Novanglus-and-Massachusettensis--13-or-Political-Essays-Published-in-the-Years-1774-and-1775-_
 gutenberg_issued: '2014-03-25'
 gutenberg_type: Text
 identifiers:
