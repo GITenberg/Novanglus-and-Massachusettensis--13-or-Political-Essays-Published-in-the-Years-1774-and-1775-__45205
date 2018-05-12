@@ -1,0 +1,41 @@
+_repo: Novanglus-and-Massachusettensis--13-or-Political-Essays-Published-in-the-Years-1774-and-1775-__45205
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45205-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Adams, John
+    aliases:
+    - United States President (1797-1801)
+    - Novanglus
+    birthdate: 1735
+    deathdate: 1826
+    gutenberg_agent_id: '4660'
+    url: http://www.gutenberg.org/2009/agents/4660
+    wikipedia: http://en.wikipedia.org/wiki/John_Adams
+  - agent_name: Leonard, Daniel
+    alias: Massachusettensis
+    birthdate: 1740
+    deathdate: 1829
+    gutenberg_agent_id: '43245'
+    url: http://www.gutenberg.org/2009/agents/43245
+description: ''
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45205'
+  lccn: 05009998
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- Politics and government -- 1775-1783'
+- !lcc 'E201'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Causes'
+title: "Novanglus, and Massachusettensis\r\nor, Political Essays, Published in the\
+  \ Years 1774 and 1775, on the Principal Points of Controversy, between Great Britain\
+  \ and Her Colonies"
+url: http://www.gutenberg.org/ebooks/45205
